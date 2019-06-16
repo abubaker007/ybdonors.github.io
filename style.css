@@ -1,0 +1,49 @@
+
+html {
+    scroll-behavior: smooth;
+}
+body {
+    vertical-align: baseline;
+    color: #cccccc;
+    background-color: #FFFF00;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    margin: 0 auto;
+}
+header {
+    padding-bottom: 40px;
+    overflow: visible;
+    width: 100%;
+    text-align: center;
+}
+
+div.title {
+    font-size: 90px;
+    padding-bottom:20px  10px;
+    color: blue;
+    font-family: 'Times New Roman Georgia';
+    font-weight: bold;
+    border: none;
+    
+}
+
+
+
+main {
+    float: center;
+    width: 60%;
+    padding:20px 30px;
+    padding-right: 30px;
+
+}
+#wide {
+    float: center;
+    width: 90%;
+    position: absolute;
+    padding:0 5%;
+}
+
+
+a { color: #cccccc; }
+a:hover { opacity: 0.7; }
+
